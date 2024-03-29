@@ -1,5 +1,57 @@
 <?php
 return array (
+  'wjm3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'wjm3u8',
+    'show' => '无尽①',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1194',
+    'tip' => '无需安装任何插件',
+    'id' => 'wjm3u8',
+  ),
+  'feifan' => 
+  array (
+    'status' => '1',
+    'from' => 'feifan',
+    'show' => '非凡播放②',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1002',
+    'tip' => '无需安装任何插件',
+    'id' => 'feifan',
+  ),
+  'ffm3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'ffm3u8',
+    'show' => '非凡播放①',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1001',
+    'tip' => '无需安装任何插件',
+    'id' => 'ffm3u8',
+  ),
+  'bfzym3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'bfzym3u8',
+    'show' => '暴风资源',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1000',
+    'tip' => '无需安装任何插件',
+    'id' => 'bfzym3u8',
+  ),
   'dplayer' => 
   array (
     'status' => '1',
