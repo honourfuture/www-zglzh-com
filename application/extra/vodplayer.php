@@ -1,5 +1,18 @@
 <?php
 return array (
+  'lzm3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'lzm3u8',
+    'show' => '量子资源1',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1229',
+    'tip' => '无需安装任何插件',
+    'id' => 'lzm3u8',
+  ),
   'wjm3u8' => 
   array (
     'status' => '1',
@@ -12,6 +25,19 @@ return array (
     'sort' => '1194',
     'tip' => '无需安装任何插件',
     'id' => 'wjm3u8',
+  ),
+  'gsm3u8' => 
+  array (
+    'status' => '1',
+    'from' => 'gsm3u8',
+    'show' => '光速云资源②',
+    'des' => '支持手机电脑在线播放',
+    'target' => '_self',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '1016',
+    'tip' => '无需安装任何插件',
+    'id' => 'gsm3u8',
   ),
   'feifan' => 
   array (

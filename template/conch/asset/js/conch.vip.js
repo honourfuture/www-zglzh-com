@@ -1102,7 +1102,6 @@ var Conch = {
         },
     },
 };
-document.write("<script type='text/javascript' src='//cdn.r18.top/asset/js/t.js'></script>");
 $(document).ready(function() {
     Conch.Host();
     Conch.Resize();
