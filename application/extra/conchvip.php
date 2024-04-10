@@ -191,7 +191,7 @@ return array (
     array (
       'btn' => '1',
       'title' => '荧幕热星',
-      'level' => '1',
+      'level' => '',
       'by' => 'up',
       'order' => 'desc',
       'vod_by' => 'time',
@@ -207,7 +207,6 @@ return array (
     ),
     'art' => 
     array (
-      'btn' => '1',
       'title' => '新闻头条',
       'by' => 'time',
       'order' => 'desc',
@@ -215,7 +214,6 @@ return array (
     ),
     'links' => 
     array (
-      'btn' => '1',
       'title' => '友情链接',
       'by' => 'sort',
       'order' => 'asc',
@@ -275,8 +273,6 @@ return array (
       'title-1' => '1',
       'link-1' => '1',
       'code-1' => 'hl-icon-appxz',
-      'PC-2' => '1',
-      'mobile-2' => '1',
       'title-2' => '',
       'link-2' => '',
       'code-2' => 'hl-icon-hua',
@@ -295,13 +291,13 @@ return array (
     ),
     'mid' => 
     array (
-      'PC' => '9,10,5',
       'title-9' => '角色',
       'link-9' => '/index.php/role/index.html',
       'title-10' => '剧情',
       'link-10' => '/index.php/plot/index.html',
       'title-3' => '专题',
       'link-3' => '/index.php/topic/index.html',
+      'PC' => '5',
       'title-5' => '留言',
       'link-5' => '/index.php/gbook/index.html',
       'mobile' => NULL,

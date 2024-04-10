@@ -278,7 +278,7 @@ return array (
     array (
     ),
   ),
-  'voddetail/<id>' => 
+  'show/<id>' => 
   array (
     0 => 'vod/detail',
     1 => 
@@ -298,7 +298,7 @@ return array (
     array (
     ),
   ),
-  'vodplay/<id>-<sid>-<nid>' => 
+  'player/<id>/index_<sid>_<nid>' => 
   array (
     0 => 'vod/play',
     1 => 

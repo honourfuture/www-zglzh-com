@@ -530,9 +530,9 @@ roleshow/<by?>-<letter?>-<level?>-<order?>-<page?>-<rid?>   => role/show
 
 vodtype/<id>-<page?>   => vod/type
 vodtype/<id>   => vod/type
-voddetail/<id>   => vod/detail
+show/<id>   => vod/detail
 vodrss-<id>   => vod/rss
-vodplay/<id>-<sid>-<nid>   => vod/play
+player/<id>/index_<sid>_<nid>   => vod/play
 voddown/<id>-<sid>-<nid>   => vod/down
 vodshow/<id>-<area?>-<by?>-<class?>-<lang?>-<letter?>-<level?>-<order?>-<page?>-<state?>-<tag?>-<year?>   => vod/show
 vodsearch/<wd?>-<actor?>-<area?>-<by?>-<class?>-<director?>-<lang?>-<letter?>-<level?>-<order?>-<page?>-<state?>-<tag?>-<year?>   => vod/search
